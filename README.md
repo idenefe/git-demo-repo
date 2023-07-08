@@ -1,2 +1,2 @@
-# git-demo-repo
+# Demo
 Demo for git and github tutorials
